@@ -9,9 +9,10 @@
 ### Languages and Tools
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/eugenioarantes/eugenioarantes/blob/master/icons/javascript.png" />
 <img align="left" alt="Typescript" width="26px" src="https://github.com/eugenioarantes/eugenioarantes/blob/master/icons/typescript.png" />
+<img align="left" alt="React" width="26px" src="https://github.com/eugenioarantes/eugenioarantes/blob/master/icons/react.png" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/eugenioarantes/eugenioarantes/blob/master/icons/html5.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/eugenioarantes/eugenioarantes/blob/master/icons/css3.png" />
-<img align="left" alt="React" width="26px" src="https://github.com/eugenioarantes/eugenioarantes/blob/master/icons/react.png" />
+<img align="left" alt="StyledComponents" width="26px" src="https://github.com/eugenioarantes/eugenioarantes/blob/master/icons/styled-components.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/eugenioarantes/eugenioarantes/blob/master/icons/vscode.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/eugenioarantes/eugenioarantes/blob/master/icons/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/eugenioarantes/eugenioarantes/blob/master/icons/github.png" />
