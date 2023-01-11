@@ -4,7 +4,7 @@
 
 - 🙋🏻‍♂️️ I'm 22 years old, brazilian living in Belo Horizonte
 - 🎓️ Computer scientist at Centro Universitário de Formiga (UNIFOR-MG). [2018-2021]
-- 💻️ I’m currently a Full Stack developer at @offerwise
+- 💻️ I’m currently a Front end developer at @offerwise
 
 ### Languages and Tools
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/eugenioarantes/eugenioarantes/blob/master/icons/javascript.png" />
